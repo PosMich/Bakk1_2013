@@ -1,0 +1,10 @@
+version=0.6.0
+typesetter=pdflatex
+steps=texpdf
+root=PASTE PATH HERE/Bakk.tex
+
+file=PASTE PATH HERE/Abstract.tex
+file=PASTE PATH HERE/Affirmation.tex
+file=PASTE PATH HERE/Body.tex
+file=PASTE PATH HERE/Summary.tex
+file=PASTE PATH HERE/Title.tex

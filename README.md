@@ -43,6 +43,11 @@ modifications of the bibliography.
 Editing
 -------
 
+My prefered editor is "Gummi" --> http://dev.midnightcoding.org/projects/gummi/
+
+There is a Gummi Project File (GummiProject.gummi), you have to insert the correct path to use it.
+
+
 ### Titlepage 
 Open the file ''Title.tex'' and edit the following items:
 * title
