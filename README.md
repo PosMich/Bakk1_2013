@@ -32,12 +32,6 @@ Note: this runs pdflatex 3 times total to get all references right.
 only runs pdflatex once. Suitable for small changes and usually leaves
 unresolved references.
 
-### Install 
-	make install
-
-copies the file Bakk1.pdf from the build directory into the main directory
-to protect it from future cleaning.
-
 ### Clean 
 	make clean
 
